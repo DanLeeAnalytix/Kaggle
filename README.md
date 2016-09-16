@@ -1,4 +1,1 @@
-# WebAppLearning
-# D3-
-# Kaggle
-# Kaggle
+# Kaggle Competition Submissions, EDA, Test Models 
